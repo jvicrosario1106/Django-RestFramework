@@ -4,7 +4,7 @@
 ```pipenv shell```
 
 ## Install Requirements.txt 😀
-```pip install -r requirements.txt 
+```pip install -r requirements.txt```
 
 ## Migrate Database
 ```python manage.py migrate```
